@@ -1,7 +1,7 @@
 # OOP-project
 
-Nurul Shahirah : Main and MainPage.fxml
+Nurul Shahirah : Main.java and MainPage.fxml
 
-Adam Daniel :
+Adam Daniel : ControllerMainPage.java, Instructions.fxml and ControllerInstructions.java
 
 Muhammad Fayez : 
